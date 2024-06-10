@@ -18,7 +18,7 @@ function Pizza() {
       <img src="pizzas/margherita.jpg" alt="Pizza Marghe"></img>
     </div>
   );
-  function Headers() {}
+  
 }
 function Menu() {}
 function Headers() {
